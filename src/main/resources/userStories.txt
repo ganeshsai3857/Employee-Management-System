@@ -1,0 +1,8 @@
+1. Add Employee Details along with its login credentials
+2. Fetch Employee Details and its Login Credentials
+3. Add Department along with its Associated Projects
+4. Delete Employee Details and its Login Credentials for a Specific Employee
+5. Add Tasks to the Project
+6. Fetch All the Projects for a Particular Department
+7. Update status of task for a particular Project
+8. Fetch all the Tasks for a Specific Project
